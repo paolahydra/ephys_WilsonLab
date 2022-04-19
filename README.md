@@ -1,5 +1,5 @@
 # ephys_WilsonLab
-code used to run patching experiments with bilateral piezo stimulation for Okubo et al 2020
+code used to run patching experiments with bilateral piezo stimulation for Okubo et al 2020, written by Paola Patella.
 
 runExperiment.m is the main script calling all the specialized workflow to run a patch clamp experiment with calibrated bilateral antennal stimulation.
 
